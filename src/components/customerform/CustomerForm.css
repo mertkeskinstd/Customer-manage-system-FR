@@ -28,3 +28,10 @@
     box-shadow: 0 1px 0 0 rgb(35 38 59 / 5%);
   }
   
+  .invalid{
+    background-color: red;
+  }
+
+  .invalid::placeholder{
+    color: white;
+  }
