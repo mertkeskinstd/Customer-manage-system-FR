@@ -1,13 +1,13 @@
-.customer-form {
-    display: flex;
+/* .customer-form {
+    /* display: flex;
     justify-content: space-between;
     align-items: center;
     column-gap: 10px;
-    margin-bottom: 20px;
-  }
+    margin-bottom: 20px; }*/
   
+/*   
   .customer-input {
-    position: relative;
+    /* position: relative;
     cursor: text;
     font-size: 14px;
     line-height: 20px;
@@ -20,9 +20,9 @@
     box-shadow: inset 0 1px 4px 0 rgb(119 122 175 / 30%);
     overflow: hidden;
     transition: all 100ms ease-in-out;
-    flex: 1;
-  }
+    flex: 1; */
   
+   */
   .customer-input:focus {
     border-color: #3c4fe0;
     box-shadow: 0 1px 0 0 rgb(35 38 59 / 5%);
